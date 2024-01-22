@@ -1,0 +1,137 @@
+.para{
+    color: #4267b5;
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.we{
+    border: 1px solid black;
+    width: 20%;
+    margin-top: -20px;
+    margin-left: 230px;
+}
+.come{
+    border: 1px solid black;
+    width: 20%;
+    margin-top: -55px;
+    margin-left: 690px;
+}
+.conc{
+    color: #4267b5;
+    font-size: 24px;
+    margin-left: 970px;
+}
+.dog{
+    height: 50vh;
+    background-image: linear-gradient(to right, #c99004, #5576cf 30%);
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.cat1{
+    border: 1.3px solid #fdb915;
+    width: 50%;
+    margin-top: -380px;
+    margin-left: 10px;
+}
+.fox1{
+    border: 1.4px solid #fdb915;
+    width: 100%;
+    margin-top: -12px;
+}
+.cow{
+    height: 90vh;
+}
+.yam1{
+    border: 1.4px solid #fdb915;
+    width: 100%;
+    margin-top: -12px;
+}
+#note{
+    margin-top: 80px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+#bike{
+    margin-top: 80px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+#horse{
+    margin-top: 80px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+#car{
+    margin-top: 80px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+#go{
+    margin-top: 20px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.Tom{
+    border: 1.3px solid #fdb915;
+    width: 85%;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.tool1{
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 17px;
+    padding:10px;
+    width: 28%;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.tool1:hover{
+    background-color: green;
+    color: white;
+}
+.tool2{
+    background-color: #ffcd55;
+    border: 2px solid #ffffff;
+    border-radius: 17px;
+    padding:10px;
+    width: 28%;
+    margin-top: 120px;
+}
+.tool3{
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 17px;
+    margin-right: 30px;
+    padding:10px;
+    width: 28%;
+    margin-top: 150px;
+}
+.tool3:hover{
+    background-color: #224093;
+    color: white;
+}
+#tool{
+    display: flex;
+    justify-content: space-evenly;
+}
+.small{
+    height: 80vh;
+    background-image: linear-gradient(to top right , #132351 80%, #ed6265);
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.fat{
+    border: 2px solid #132351;
+    height: 13vh;
+    background-color: #132351;
+    bottom: 0;
+}
+@media screen and (max-width: 480px) {
+
+}
